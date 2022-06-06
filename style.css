@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F2F7FF;
+    height: 630px;
+}
+.logo {
+    margin-top: -400px;
+}
+.heading {
+    align-self:flex-start;
+    width: 600px;
+    padding-left: 200px;
+    margin-top: -500px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: x-large;
+}
+.content {
+    width: 630px;
+    align-self: flex-start;
+    padding-left: 200px;
+    margin-top: 60px;
+    font-size: x-large;
+    font-family: 'PT Sans', sans-serif;
+}
+.strategy {
+    align-self: flex-start;
+    padding-left: 230px;
+    margin-top: 25px;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'PT Sans', sans-serif;
+}
+.logo1 {
+    align-self: flex-end;
+    margin-right: 250px;
+    margin-top: -350px;
+}
+.logo1 img {
+    width: 380px;
+}
+.container2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    /* padding-left: 200px; */
+    background-color: #FFFDFD;
+    font-family: 'PT Sans', sans-serif;
+    padding-top: 40px;
+}
+.container2 h1 {
+    color: #38B7FF;
+}
+.container2 p {
+    width: 750px;   
+    margin-top: 20px;
+    margin-left: 400px;
+    font-size: larger;
+}
+.container3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFFDFD;
+    /* background-color: yellow; */
+    padding: 20px;
+    font-family: 'PT Sans', sans-serif;
+}
+#temp {
+    padding: 40px;
+    color: #38B7FF;
+}
+.work1 {
+    align-self:flex-start;
+    display: flex;
+    flex-direction: column;
+    /* background-color: yellow; */
+    /* border: 2px solid red; */
+    margin-left: 250px;
+    margin-top: 10px;
+    /* padding: 50px; */
+}
+.work2 {
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    /* background-color: red; */
+    /* border: 2px solid black; */
+    margin-right: 250px;
+    text-align: center; 
+    margin-top: -470px;
+}
+#working {
+    margin-left: 275px;
+}
+
+#imgProp1 {
+    width: 200px;
+    margin-left: 20px;
+}
+#imgProp {
+    width: 200px;
+}
+.work3 {
+    margin-left: 785px;
+    text-align: center;
+    padding: 10px;
+}
+.container4 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 30px;
+    background-color: #E7F5FF;
+    height: 770px;
+    font-family: 'PT Sans', sans-serif;
+}
+#team {
+    margin-top: 30px;
+    color: #38B7FF;
+}
+#grpPic {
+    margin-top: 30px;
+    align-self: center;
+    width: 1350px;
+}
+.container5 {
+    display: flex;
+    flex-direction: column;
+    background-color: #EDF0F1;
+    padding: 20px;
+    font-family: 'PT Sans', sans-serif;
+}
+#port {
+    align-self: center;
+    margin-top: 30px;
+    color: #38B7FF;
+}
+#head {
+    margin-left: 150px;
+    margin-top: 10px;
+    /* color: #38B7FF; */
+}
+.pic2 {
+    align-self: flex-end;
+}
+#pica {
+    width: 450px;
+    margin-left: 230px;
+    margin-top: 2.5rem;
+}
+#picb {
+    width: 500px;
+    margin-left: 215px;
+    margin-top: 2.5rem;
+}
+#picc {
+    margin-top: -700px;
+    margin-right: 230px;
+    /* height: 600px; */
+}
+#butt {
+    align-self: flex-start;
+    margin-left: 250px;
+    padding: 30px;
+    width: 250px;
+    background-color: #38B7FF;
+    border: none;
+    color: white;
+    font-size: larger;
+    font-weight: 600;
+    border-radius: 15px;
+}
+#butt:hover {
+    /* background-color: skyblue; */
+    cursor: pointer;
+}
+.foot1 {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    /* margin: 40px; */
+    padding: 60px;
+    height: 200px;
+    background-color: #38B7FF;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+}
+.clock {
+    align-self: flex-start;
+    margin-left: 365px;
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: column;
+}
+.mail {
+    align-self: flex-end;
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+#img1 {
+    width: 50px;
+    align-self: center;
+    filter: invert(100%);
+}
+#img2 {
+    align-self: center;
+    filter: invert(100%);
+}
+#x {
+    margin-top: 5px;
+}
+.foot2 {
+    background-color: #38B7FF;
+    font-family: 'PT Sans', sans-serif;
+    color: white;
+    height: 50px;
+}
+.copy {
+    margin-left: 655px;
+}

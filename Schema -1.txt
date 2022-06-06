@@ -1,0 +1,9 @@
+Color codes used in BG : 
+	1.F2F7FF
+	2.FFFDFD
+	3.E7F5FF
+	4.EDF0F1
+	5.60A4D6
+	6.38B7FF
+
+Font style : PT Sans
